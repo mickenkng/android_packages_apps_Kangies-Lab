@@ -72,13 +72,11 @@
         android:summary="@string/qs_show_drag_handle_summary"
         android:defaultValue="true" />
 
-
      <com.dirtyunicorns.support.preferences.SystemSettingSwitchPreference
         android:key="qs_tiles_bg_disco"
         android:title="@string/qs_bg_use_disco"
         android:summary="@string/qs_bg_use_disco_summary"
         android:defaultValue="false" />
-
 
     <com.dirtyunicorns.support.preferences.SystemSettingSwitchPreference 
         android:key="qs_running_services_toggle" 
@@ -119,6 +117,13 @@
         settings:min="100"
         settings:interval="5"
         android:defaultValue="255" />
+
+    <com.dirtyunicorns.support.preferences.SystemSettingListPreference
+        android:key="qs_header_background"
+        android:title="@string/qs_header_background_title"
+        android:entries="@array/qs_header_background_entries"
+        android:entryValues="@array/qs_header_background_values"
+        android:defaultValue="0" />
 
     <com.dirtyunicorns.support.preferences.SystemSettingListPreference
         android:key="qs_panel_bg_use_new_tint"

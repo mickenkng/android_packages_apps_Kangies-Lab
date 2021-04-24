@@ -609,4 +609,9 @@
     <string name="lockscreen_maxnotif_sumary">Enable adjustment of max lockscreen notifications</string>
     <string name="lockscreen_maxnotif_config">Max lockscreen notifications</string>
 
+    <!-- QS statusbar background -->
+    <string name="qs_header_background_title">Header background</string>
+    <string name="qs_header_background_black">Black</string>
+    <string name="qs_header_background_transparent">Transparent</string>
+
 </resources>
