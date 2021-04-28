@@ -354,9 +354,6 @@
     <string name="hardware_keys_double_tap_title">Double tap action</string>
     <string name="hardware_keys_disable_title">Disable keys</string>
 
-    <string name="qs_bg_use_disco">QS tile disco</string>
-    <string name="qs_bg_use_disco_summary">Make your QS Tiles colorful!</string>
-
     <!-- Headset ringtone audio focus -->
     <string name="ringtone_focus_mode_title">Where to play ringtones from</string>
     <string name="ringtone_focus_mode_dynamic">From headset if connected and playing music</string>
@@ -613,5 +610,5 @@
     <string name="qs_header_background_title">Header background</string>
     <string name="qs_header_background_black">Black</string>
     <string name="qs_header_background_transparent">Transparent</string>
-
+    <string name="fod_recog_animation_op_cyberpunk">CyberPunk</string>
 </resources>
